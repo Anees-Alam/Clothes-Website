@@ -5,7 +5,7 @@
 
 .About .main{
     width: 100%;
-    background: linear-gradient(to top, rgba(0,0,0,0.5)50%,rgba(0,0,0,0.5)50%), url(../images/scenic2.jpg);
+    background: linear-gradient(to top, rgb(255, 255, 255)50%,rgba(255, 255, 255, 0.967)50%), url(../images/scenic2.jpg);
     background-position: center;
     background-size: cover;
     height: 100vh;
@@ -55,7 +55,7 @@ ul li{
 
 ul li a{
     text-decoration: none;
-    color: #fff;
+    color: #000000;
     font-family: Arial;
     font-weight: bold;
     transition: 0.4s ease-in-out;
@@ -78,7 +78,7 @@ ul li a:hover{
     background: transparent;
     border: 1px solid #ff7200;
     margin-top: 13px;
-    color: #fff;
+    color: #000000;
     border-right: none;
     font-size: 16px;
     float: left;
@@ -93,7 +93,7 @@ ul li a:hover{
     background: #ff7200;
     border: 2px solid #ff7200;
     margin-top: 13px;
-    color: #fff;
+    color: #ffffff;
     font-size: 15px;
     border-bottom-right-radius: 5px;
     border-bottom-right-radius: 5px;
@@ -116,7 +116,7 @@ ul li a:hover{
     width: 1200px;
     height: auto;
     margin: auto;
-    color: #fff;
+    color: #000000;
     position: relative;
 }
 
@@ -157,7 +157,7 @@ ul li a:hover{
 }
 
 .cn:hover{
-    background-color: #fff;
+    background-color: #000000;
 }
 
 .content span{
@@ -166,6 +166,6 @@ ul li a:hover{
 }
 
 ::placeholder{
-    color: #fff;
+    color: #000000;
     font-family: Arial;
 }
